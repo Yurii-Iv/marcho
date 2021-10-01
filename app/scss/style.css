@@ -1,0 +1,17 @@
+.menu {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #a3ddfc;
+  font-size: 90px;
+  line-height: 120px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  color: #272727;
+}
+
+/*# sourceMappingURL=style.css.map */
